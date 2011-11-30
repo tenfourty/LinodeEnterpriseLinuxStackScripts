@@ -2,6 +2,7 @@
 
 ###########################################################
 # CentOS-Library - StackScripts id 1641
+# http://www.linode.com/stackscripts/view/?StackScriptID=1641
 # 
 # My library of CentOS functions, this is based on the Fedora/CentOS Bash Library (http://www.linode.com/stackscripts/view/?StackScriptID=20) but with my own extensions for further functionality.
 #

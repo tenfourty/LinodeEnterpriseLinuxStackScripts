@@ -14,6 +14,7 @@ source <ssinclude StackScriptID="3247">
 
 ###########################################################
 # CentOS-StaticIP-Advanced - StackScripts id 3246
+# http://www.linode.com/stackscripts/view/?StackScriptID=3246
 # 
 # This script does the same tasks as our Basic setup script but also sets static public and private ips.
 # This script is based on the Fedora/CentOS Basics (http://www.linode.com/stackscripts/view/?StackScriptID=52) with my own extensions.

@@ -6,6 +6,7 @@ source <ssinclude StackScriptID="3247">
 
 ###########################################################
 # CentOS-Advanced - StackScripts id 3245
+# http://www.linode.com/stackscripts/view/?StackScriptID=3245
 # 
 # This is my advanced stack script to setup my CentOS server as I want it. It is an evolution of my CentOS-Basic script.
 # 

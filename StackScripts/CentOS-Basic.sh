@@ -6,6 +6,7 @@ source <ssinclude StackScriptID="1641">
 
 ###########################################################
 # CentOS-Basic - StackScripts id 1640
+# http://www.linode.com/stackscripts/view/?StackScriptID=1640
 # 
 # This is my version of an initial setup script for CentOS.
 # It updates all packages, installs some basic packages I use and then sets the hostname, updates the hosts file and sets the timezone (London).

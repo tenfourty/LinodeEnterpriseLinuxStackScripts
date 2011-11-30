@@ -2,6 +2,7 @@
 
 ###########################################################
 # CentOS-Library-Advanced - StackScripts id 3247
+# http://www.linode.com/stackscripts/view/?StackScriptID=3247
 #
 # My library of CentOS functions, this is based on the Fedora/CentOS Bash Library (http://www.linode.com/stackscripts/view/?StackScriptID=20) but with my own extensions for further functionality.
 # I've extended my original script to do more advanced setup of my linode.
